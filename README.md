@@ -30,7 +30,7 @@ The script file contains all the information about the simulation and the entiti
 • One integer corresponding to the aircraft’s speed (in pixels per second),
 • O`ne integer corresponding to the delay (in seconds) before the aircraft takes off.
 ```
-Control towers are described by:
+## Control towers are described by:
 ```bash
 • The letter ‘T’,
 • Two integers corresponding to the control tower x- and y-coordinates,
@@ -38,7 +38,7 @@ Control towers are described by:
 of the greatest side of the window in pixel).
 Entities are separated by a ‘\n’.
 ```
-
+#Exemple of a script:
 ```bash
 ∼/B-MUL-100> cat scripts/example.rdr
 A 815 321 1484 166 5 0
