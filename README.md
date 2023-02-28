@@ -38,7 +38,7 @@ The script file contains all the information about the simulation and the entiti
 of the greatest side of the window in pixel).
 Entities are separated by a ‘\n’.
 ```
-#Exemple of a script:
+## Exemple of a script:
 ```bash
 ∼/B-MUL-100> cat scripts/example.rdr
 A 815 321 1484 166 5 0
@@ -48,7 +48,7 @@ T 93 47 19
 T 49 56 25
 ```
 
-## Help Command
+# Help Command
 ```bash
 ./radar -h
     Air traffic simulation panel
