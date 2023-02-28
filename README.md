@@ -14,7 +14,7 @@ make sure to have the CSFML lib !
 2D visualization panel showing a simulatation of air traffic (AT).
 
 # Usage
-## Lauch the game
+## Lauch the program
 ```bash
 ./my_radar script
 ```
